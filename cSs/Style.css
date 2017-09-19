@@ -1,0 +1,31 @@
+/*Style sheet for dylands thingamadoohicker*/
+
+body{
+    background-color: aliceblue;
+}
+div#container{
+       margin: auto;
+    width: 1024px;
+    background-color: cornflowerblue
+            border-bottom: blue outset 15px; 
+    border-right: blue inset 15px; 
+    border-left: blue outset 15px; 
+    border-top: blue inset 15px;
+}
+div#content{
+    color: ;
+    border-bottom: blue outset 15px; 
+    border-right: blue inset 15px; 
+    border-left: blue outset 15px; 
+    border-top: blue inset 15px; 
+    background-color: aqua;
+    margin: 10px;
+}
+img{
+    
+    width: 90%;
+        border-bottom: blue outset 15px; 
+    border-right: blue inset 15px; 
+    border-left: blue outset 15px; 
+    border-top: blue inset 15px;
+}
