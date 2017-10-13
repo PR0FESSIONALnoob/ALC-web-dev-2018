@@ -105,7 +105,7 @@ nav .active{
 #shoppic{
     width: 90%;
     margin: 4%;
-    border: 10px inset lime;
+    border: 10px outset blue;
 }
 footer{
     width: 100%;
@@ -171,6 +171,7 @@ figcaption{
     width: 100%;
     clear: both;
     background-color: cadetblue;
-    
-    
 } 
+#contact{
+    margin: 15px;
+}
