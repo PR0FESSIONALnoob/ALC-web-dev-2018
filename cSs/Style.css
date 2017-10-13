@@ -137,6 +137,7 @@ h2{
 }
 #pmain{
     float: left;
+    margin: 15px;
 }
 .keepOpen{
     clear: both;
@@ -173,5 +174,8 @@ figcaption{
     background-color: cadetblue;
 } 
 #contact{
+    margin: 15px;
+}
+#content p{
     margin: 15px;
 }
